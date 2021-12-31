@@ -1,4 +1,4 @@
 spring:
   redis:
-      host: 106.75.136.235
+      host: 106.75.136.237
       database: 0
