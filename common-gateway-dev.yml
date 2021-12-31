@@ -4,4 +4,4 @@ spring:
     port: 6379
     database: 0
   nihao:
-    str: 3214
+    str: 32145
