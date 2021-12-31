@@ -1,8 +1,7 @@
 spring:
   redis:
-      host: 106.75.136.234
-      port: 6379
-      database: 0
-spring:
-  test:
+    host: 106.75.136.234
+    port: 6379
+    database: 0
+  nihao:
     str: 123
